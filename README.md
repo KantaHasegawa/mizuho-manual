@@ -7,11 +7,14 @@
 ## スマートフォンの場合
 ### スマートフォンブラウザとは？
 インターネットの検索に使用するアプリのこと Safari, Chrome等
-![safari](https://github.com/KantaHasegawa/mizuho-manual/assets/66783124/dcbf7ffb-3853-4272-85e0-f2dac1d1ad96)
-![chrome](https://github.com/KantaHasegawa/mizuho-manual/assets/66783124/c3d116b5-a9cb-4f07-b561-828c42c293cc)
+<img width="573" alt="image" src="https://github.com/KantaHasegawa/mizuho-manual/assets/66783124/86fc4bad-3789-49c3-87ee-dfd2f20a32a2">
+
+<img width="684" alt="image" src="https://github.com/KantaHasegawa/mizuho-manual/assets/66783124/00db9a2d-a1d4-472e-8b2e-5d04d762324b">
+
 
 ## 入力方法
-![IMG_2958](https://github.com/KantaHasegawa/mizuho-manual/assets/66783124/9f7ef3e0-dac1-4547-9a8d-e9218c26d57c)
+<img width="577" alt="image" src="https://github.com/KantaHasegawa/mizuho-manual/assets/66783124/5213e425-ff1a-4a36-96a4-9feb79363d88">
+
 
 ## アクセスを簡略化する
 毎回URLを手打ちしていると大変なので、スマートフォンのホーム画面に追加しましょう  
@@ -26,8 +29,8 @@
 <img width="559" alt="image" src="https://github.com/KantaHasegawa/mizuho-manual/assets/66783124/1ac0f372-5f3e-45c1-aeb5-b4582f69a469">
 
 ### Android & Chromeの場合
-https://pc-karuma.net/how-to-add-website-to-home-screen-on-android-chrome/
-上記を参考にしてください
+https://pc-karuma.net/how-to-add-website-to-home-screen-on-android-chrome/　　
+上記のサイトを参考にしてください
 
 # ログイン
 <img width="484" alt="image" src="https://github.com/KantaHasegawa/mizuho-manual/assets/66783124/366cff5a-9a93-43fa-b54c-d960ceff0e73">
